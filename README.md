@@ -1,2 +1,3 @@
-# To-do-list
-A to do list created using flutter
+# to_do_list
+
+A new Flutter project.
