@@ -8,6 +8,8 @@ A simple To-Do app built using Flutter that allows users to add and delete tasks
 - Simple and minimalistic UI
 
 ## Screenshots
+### With Task Added
+![Task Added](/assets/screenshots/ui.png)
 
 
 ## Installation
