@@ -20,7 +20,7 @@ A simple To-Do app built using Flutter that allows users to add and delete tasks
    ```
 2. Navigate to the project directory:
    ```sh
-   cd flutter-todo-app
+   cd To-do-list
    ```
 3. Install dependencies:
    ```sh
@@ -43,5 +43,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Feel free to customize this README based on your project specifics!
-
